@@ -4,7 +4,7 @@ Kafka 실습
 Spring boot - Kafka 연동 
 
 Producer Server는 사용자로부터 Message를 받아서 Kafka로 send  
-Consumer Server는 Kafka exam topic을 listne하다가 message가 들어오면 log로 출력
+Consumer Server는 Kafka exam topic을 listen하다가 message가 들어오면 log로 출력
 
 ## 결과
 ![kafka_test](https://github.com/changuii/kafka_SpringBoot/assets/122252160/bdda0880-350e-4db6-9e46-1dfae26c9bd5)
